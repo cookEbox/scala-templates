@@ -1,0 +1,6 @@
+.direnv/
+.result*
+target/
+.metals/
+.bloop/
+.scala-build/
