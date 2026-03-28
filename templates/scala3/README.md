@@ -7,4 +7,5 @@ direnv allow
 nix develop
 sbt bloopInstall
 sbt test
+sbt run
 ```
