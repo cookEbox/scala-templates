@@ -11,7 +11,6 @@
 
           Next steps:
             direnv allow
-            nix develop
         '';
       };
 
@@ -23,7 +22,6 @@
 
           Next steps:
             direnv allow
-            nix develop
         '';
       };
 
